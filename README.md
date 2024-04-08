@@ -7,9 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/jaylamanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaylamanga" height="30" width="40" /></a>
 <a href="https://discord.gg/166490999764287488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="166490999764287488" height="30" width="40" /></a>
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@jaylaG194/30-nites-of-code)  
-  ![@jaylaG194 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jaylaG194)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
