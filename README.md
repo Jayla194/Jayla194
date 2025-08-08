@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayla</h1>
-<h3 align="center">A passionate Software Engineering student from England</h3>
+<h3 align="center">A final year Software Engineering student from Leicester, UK</h3>
 
-- 📫 How to reach me **jayla194green@gmail.com**
+- 🌼 How to reach me **jayla194green@gmail.com**
+- 🌼 Connect with me on <a href="https://www.linkedin.com/in/jayla-green-386ba9242/" target="blank">**LinkedIn**</a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jaylamanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaylamanga" height="30" width="40" /></a>
 <a href="https://discord.gg/166490999764287488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="166490999764287488" height="30" width="40" /></a>
