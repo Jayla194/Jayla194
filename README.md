@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayla</h1>
+<h1 align="center">Hi, I'm Jayla 👋 </h1>
 <h3 align="center">A final year Software Engineering student from Leicester, UK</h3>
 
 - 🌿 How to reach me: **jayla194green@gmail.com**  
@@ -31,19 +31,23 @@ I’m passionate about building projects that combine creativity with data. I en
 - Experimenting with interactive web UI & small AI projects  
 </p>
 
-
 <h3 align="left">Recent Projects 🌟</h3>
-**Recipe Recommendation System**  
-A Python-based system that recommends recipes from BBC Good Food using cosine similarity and KNN. Focused on analyzing user preferences and presenting data in an intuitive, interactive way. 
 
+- **My Shangri-La Referendum Platform**
+A full-stack web application developed as part of a final-year Software Engineering assignment.  
+The system simulates a national referendum platform, allowing citizens to securely register and vote, while providing an Electoral Commission with tools to create, manage, and monitor referendums.<br>
+**Skills:**  React, Firebase Authentication, Firestore, Node.js, Express, REST APIs, Role-Based Access Control, UI/UX Design, Full-Stack Development
+
+- **Recipe Recommendation System** 
+A Python-based system that recommends recipes from BBC Good Food using cosine similarity and KNN. Focused on analyzing user preferences and presenting data in an intuitive, interactive way.<br>
 **Skills:** Python, Data Analysis, Recommendation Algorithms, Data Visualization
 
-**Oxford City Break Website**  
-A web project showcasing Oxford locations inspired by literature. Built with HTML, CSS, JavaScript, and a database to manage location data.  
+- **Oxford City Break Website**  
+A web project showcasing Oxford locations inspired by literature. Built with HTML, CSS, JavaScript, and a database to manage location data.<br>
 **Skills:** Web Development, Database Management, UI/UX, Front-End Design
 
-**Flour Power Social Media Campaign (A-Level Project)**  
-Designed and managed a month-long social media marketing campaign for a fictional bakery. Created content, engaged with followers, and analyzed engagement metrics.  
+- **Flour Power Social Media Campaign (A-Level Project)**  
+Designed and managed a month-long social media marketing campaign for a fictional bakery. Created content, engaged with followers, and analyzed engagement metrics.<br>
 **Skills:** Content Planning & Scheduling, Digital Marketing, Data & Metric Analysis
 
 <h3 align="left">Contact 🌸</h3>
